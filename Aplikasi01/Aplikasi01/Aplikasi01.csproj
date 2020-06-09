@@ -1,0 +1,455 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{86D561F0-6AC5-4E33-8F5C-9ED8CEF36E76}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Aplikasi01</RootNamespace>
+    <AssemblyName>Aplikasi01</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Barang1.cs" />
+    <Compile Include="FormCari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCari.Designer.cs">
+      <DependentUpon>FormCari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCariSetupPemakai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCariSetupPemakai.Designer.cs">
+      <DependentUpon>FormCariSetupPemakai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCariSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCariSupplier.Designer.cs">
+      <DependentUpon>FormCariSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCetakNotaBeli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCetakNotaBeli.Designer.cs">
+      <DependentUpon>FormCetakNotaBeli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCetakNotaJual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCetakNotaJual.Designer.cs">
+      <DependentUpon>FormCetakNotaJual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDosenSendiri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDosenSendiri.Designer.cs">
+      <DependentUpon>FormDosenSendiri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLapStok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLapStok.Designer.cs">
+      <DependentUpon>FormLapStok.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLapSup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLapSup.Designer.cs">
+      <DependentUpon>FormLapSup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMenuUtama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenuUtama.Designer.cs">
+      <DependentUpon>FormMenuUtama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNotaBeli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNotaBeli.Designer.cs">
+      <DependentUpon>FormNotaBeli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNotaJual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNotaJual.Designer.cs">
+      <DependentUpon>FormNotaJual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSaringLapStok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSaringLapStok.Designer.cs">
+      <DependentUpon>FormSaringLapStok.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSaringSup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSaringSup.Designer.cs">
+      <DependentUpon>FormSaringSup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSetupPemakai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSetupPemakai.Designer.cs">
+      <DependentUpon>FormSetupPemakai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSupplier.designer.cs">
+      <DependentUpon>FormSupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTabelBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTabelBarang.Designer.cs">
+      <DependentUpon>FormTabelBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="inventoryDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>inventoryDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="InventorykuDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InventorykuDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="inventory_tiggerDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>inventory_tiggerDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="inventory_tiggerDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>inventory_tiggerDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="inventory_tiggerDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>inventory_tiggerDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Pemakai1.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tabel.cs" />
+    <EmbeddedResource Include="FormCari.resx">
+      <DependentUpon>FormCari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCariSetupPemakai.resx">
+      <DependentUpon>FormCariSetupPemakai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCariSupplier.resx">
+      <DependentUpon>FormCariSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCetakNotaBeli.resx">
+      <DependentUpon>FormCetakNotaBeli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCetakNotaJual.resx">
+      <DependentUpon>FormCetakNotaJual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDosenSendiri.resx">
+      <DependentUpon>FormDosenSendiri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLapStok.resx">
+      <DependentUpon>FormLapStok.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLapSup.resx">
+      <DependentUpon>FormLapSup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenuUtama.resx">
+      <DependentUpon>FormMenuUtama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNotaBeli.resx">
+      <DependentUpon>FormNotaBeli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNotaJual.resx">
+      <DependentUpon>FormNotaJual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSaringLapStok.resx">
+      <DependentUpon>FormSaringLapStok.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSaringSup.resx">
+      <DependentUpon>FormSaringSup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSetupPemakai.resx">
+      <DependentUpon>FormSetupPemakai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSupplier.resx">
+      <DependentUpon>FormSupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTabelBarang.resx">
+      <DependentUpon>FormTabelBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lapstock.rdlc" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ReportCetakNotaJual.rdlc" />
+    <EmbeddedResource Include="ReportLapSup.rdlc" />
+    <EmbeddedResource Include="ReportNotaBeli.rdlc" />
+    <None Include="app.config" />
+    <None Include="inventoryDataSet.xsc">
+      <DependentUpon>inventoryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="inventoryDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>inventoryDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="inventoryDataSet.xss">
+      <DependentUpon>inventoryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="InventorykuDataSet.xsc">
+      <DependentUpon>InventorykuDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="InventorykuDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>InventorykuDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="InventorykuDataSet.xss">
+      <DependentUpon>InventorykuDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="inventory_tiggerDataSet.xsc">
+      <DependentUpon>inventory_tiggerDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="inventory_tiggerDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>inventory_tiggerDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="inventory_tiggerDataSet.xss">
+      <DependentUpon>inventory_tiggerDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="inventory_tiggerDataSet1.xsc">
+      <DependentUpon>inventory_tiggerDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="inventory_tiggerDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>inventory_tiggerDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="inventory_tiggerDataSet1.xss">
+      <DependentUpon>inventory_tiggerDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="inventory_tiggerDataSet2.xsc">
+      <DependentUpon>inventory_tiggerDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="inventory_tiggerDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>inventory_tiggerDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="inventory_tiggerDataSet2.xss">
+      <DependentUpon>inventory_tiggerDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\01.DataContainer_MoveFirstHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\02.DataContainer_MovePreviousHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\03.DataContainer_MoveNextHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\04.DataContainer_MoveLastHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\05.Find.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\05.Find_VS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\05.FindHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\05.FindNext_VS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\05.FindNextHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\05.FindPrevious_VS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\06.Print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\06.PrintArea.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\06.PrintHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\06.PrintPreviewHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\07.New.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\08.Edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\08.EditDocument.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\08.EditTask.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\08.EditTask_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\09.CutHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\09.Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\09.DeleteHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\09.Erase.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10.Save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10.saveHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11.Edit_UndoHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11.Undo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12.Close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_users_group-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_user-.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keys.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login_img.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\moveFirst.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\moveLast.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\moveNext.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\movePrevious.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\signin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\staff.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Userlogin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallpaper.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

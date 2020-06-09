@@ -1,0 +1,128 @@
+D:\ABD_A\Aplikasi01\Aplikasi01\bin\Debug\Aplikasi01.exe
+D:\ABD_A\Aplikasi01\Aplikasi01\bin\Debug\Aplikasi01.pdb
+D:\ABD_A\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.Form1.resources
+D:\ABD_A\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.Properties.Resources.resources
+D:\ABD_A\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.csproj.GenerateResource.Cache
+D:\ABD_A\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.exe
+D:\ABD_A\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.pdb
+D:\ABD_A\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormDosen.resources
+D:\ABD_A\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormRuang.resources
+D:\ABD_A\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormBarang.resources
+D:\ABD_A\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.csprojResolveAssemblyReference.cache
+D:\ABD_A\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormDosenSendiri.resources
+D:\ABD_A\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormTabelBarang.resources
+D:\ABD_A\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormCari.resources
+F:\ABD_A\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.exe
+F:\ABD_A\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.pdb
+D:\ABDA\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.exe
+D:\ABDA\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.pdb
+D:\ABDA\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.csprojResolveAssemblyReference.cache
+D:\ABDA\Aplikasi01\Aplikasi01\bin\Debug\Aplikasi01.exe
+D:\ABDA\Aplikasi01\Aplikasi01\bin\Debug\Aplikasi01.pdb
+D:\ABDA\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.Form1.resources
+D:\ABDA\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormBarang.resources
+D:\ABDA\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormDosen.resources
+D:\ABDA\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormRuang.resources
+D:\ABDA\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormCari.resources
+D:\ABDA\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormDosenSendiri.resources
+D:\ABDA\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormTabelBarang.resources
+D:\ABDA\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.Properties.Resources.resources
+D:\ABDA\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.csproj.GenerateResource.Cache
+D:\ABDA\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormSupplier.resources
+D:\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.exe
+D:\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.pdb
+D:\Aplikasi01\Aplikasi01\bin\Debug\Aplikasi01.exe.config
+D:\Aplikasi01\Aplikasi01\bin\Debug\Aplikasi01.exe
+D:\Aplikasi01\Aplikasi01\bin\Debug\Aplikasi01.pdb
+D:\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormCari.resources
+D:\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormDosenSendiri.resources
+D:\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormLapStok.resources
+D:\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormSupplier.resources
+D:\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormTabelBarang.resources
+D:\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.Properties.Resources.resources
+D:\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.csproj.GenerateResource.Cache
+D:\Aplikasi01\Aplikasi01\obj\x86\Debug\RdlCompile.cache
+D:\Aplikasi01\Aplikasi01\obj\x86\Debug\RdlCompile.compiled
+D:\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormSaringLapStok.resources
+D:\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.csprojResolveAssemblyReference.cache
+D:\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormLapSup.resources
+D:\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormSaringSup.resources
+D:\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormNotaBeli.resources
+G:\Riko&Katon\Aplikasi01\Aplikasi01\bin\Debug\Aplikasi01.exe.config
+G:\Riko&Katon\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.exe
+G:\Riko&Katon\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.pdb
+G:\Riko&Katon\Aplikasi01\Aplikasi01\bin\Debug\Aplikasi01.exe
+G:\Riko&Katon\Aplikasi01\Aplikasi01\bin\Debug\Aplikasi01.pdb
+G:\Riko&Katon\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.csprojResolveAssemblyReference.cache
+G:\Riko&Katon\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormCari.resources
+G:\Riko&Katon\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormDosenSendiri.resources
+G:\Riko&Katon\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormLapStok.resources
+G:\Riko&Katon\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormLapSup.resources
+G:\Riko&Katon\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormNotaBeli.resources
+G:\Riko&Katon\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormSaringLapStok.resources
+G:\Riko&Katon\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormSaringSup.resources
+G:\Riko&Katon\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormSupplier.resources
+G:\Riko&Katon\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormTabelBarang.resources
+G:\Riko&Katon\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.Properties.Resources.resources
+G:\Riko&Katon\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.csproj.GenerateResource.Cache
+G:\Riko&Katon\Aplikasi01\Aplikasi01\obj\x86\Debug\RdlCompile.cache
+G:\Riko&Katon\Aplikasi01\Aplikasi01\obj\x86\Debug\RdlCompile.compiled
+H:\Riko&Katon\Aplikasi01\Aplikasi01\bin\Debug\Aplikasi01.exe.config
+H:\Riko&Katon\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.exe
+H:\Riko&Katon\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.pdb
+C:\Users\B00\Desktop\PAK KATON\Aplikasi01\Aplikasi01\bin\Debug\Aplikasi01.exe.config
+C:\Users\B00\Desktop\PAK KATON\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.exe
+C:\Users\B00\Desktop\PAK KATON\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.pdb
+D:\PAK KATON\Aplikasi01\Aplikasi01\bin\Debug\Aplikasi01.exe.config
+D:\PAK KATON\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.exe
+D:\PAK KATON\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.pdb
+D:\PAK KATON\Aplikasi01\Aplikasi01\bin\Debug\Aplikasi01.exe
+D:\PAK KATON\Aplikasi01\Aplikasi01\bin\Debug\Aplikasi01.pdb
+D:\PAK KATON\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormCari.resources
+D:\PAK KATON\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormDosenSendiri.resources
+D:\PAK KATON\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormLapStok.resources
+D:\PAK KATON\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormLapSup.resources
+D:\PAK KATON\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormNotaBeli.resources
+D:\PAK KATON\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormSaringLapStok.resources
+D:\PAK KATON\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormSaringSup.resources
+D:\PAK KATON\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormSupplier.resources
+D:\PAK KATON\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormTabelBarang.resources
+D:\PAK KATON\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.Properties.Resources.resources
+D:\PAK KATON\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.csproj.GenerateResource.Cache
+D:\PAK KATON\Aplikasi01\Aplikasi01\obj\x86\Debug\RdlCompile.cache
+D:\PAK KATON\Aplikasi01\Aplikasi01\obj\x86\Debug\RdlCompile.compiled
+D:\PAK KATON\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormNotaJual.resources
+D:\PAK KATON\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormCariSupplier.resources
+D:\PAK KATON\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.csprojResolveAssemblyReference.cache
+D:\PAK KATON\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormCetakNotaBeli.resources
+D:\PAK KATON\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormCetakNotaJual.resources
+D:\PAK KATON\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormMenuUtama.resources
+D:\PAK KATON\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormLogin.resources
+D:\PAK KATON\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormSetupPemakai.resources
+D:\Data Kuliah\Program kuliah\Program Kuliah Semester 3\Pak Katon (ADB)\ADB(Michael)\Aplikasi01\Aplikasi01\bin\Debug\Aplikasi01.exe.config
+D:\Data Kuliah\Program kuliah\Program Kuliah Semester 3\Pak Katon (ADB)\ADB(Michael)\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.exe
+D:\Data Kuliah\Program kuliah\Program Kuliah Semester 3\Pak Katon (ADB)\ADB(Michael)\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.pdb
+D:\Data Kuliah\Program kuliah\Program Kuliah Semester 3\Pak Katon (ADB)\ADB(Michael)\Aplikasi01\Aplikasi01\bin\Debug\Aplikasi01.exe
+D:\Data Kuliah\Program kuliah\Program Kuliah Semester 3\Pak Katon (ADB)\ADB(Michael)\Aplikasi01\Aplikasi01\bin\Debug\Aplikasi01.pdb
+D:\Data Kuliah\Program kuliah\Program Kuliah Semester 3\Pak Katon (ADB)\ADB(Michael)\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormCari.resources
+D:\Data Kuliah\Program kuliah\Program Kuliah Semester 3\Pak Katon (ADB)\ADB(Michael)\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormCariSupplier.resources
+D:\Data Kuliah\Program kuliah\Program Kuliah Semester 3\Pak Katon (ADB)\ADB(Michael)\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormCetakNotaBeli.resources
+D:\Data Kuliah\Program kuliah\Program Kuliah Semester 3\Pak Katon (ADB)\ADB(Michael)\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormCetakNotaJual.resources
+D:\Data Kuliah\Program kuliah\Program Kuliah Semester 3\Pak Katon (ADB)\ADB(Michael)\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormDosenSendiri.resources
+D:\Data Kuliah\Program kuliah\Program Kuliah Semester 3\Pak Katon (ADB)\ADB(Michael)\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormLapStok.resources
+D:\Data Kuliah\Program kuliah\Program Kuliah Semester 3\Pak Katon (ADB)\ADB(Michael)\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormLapSup.resources
+D:\Data Kuliah\Program kuliah\Program Kuliah Semester 3\Pak Katon (ADB)\ADB(Michael)\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormLogin.resources
+D:\Data Kuliah\Program kuliah\Program Kuliah Semester 3\Pak Katon (ADB)\ADB(Michael)\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormMenuUtama.resources
+D:\Data Kuliah\Program kuliah\Program Kuliah Semester 3\Pak Katon (ADB)\ADB(Michael)\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormNotaBeli.resources
+D:\Data Kuliah\Program kuliah\Program Kuliah Semester 3\Pak Katon (ADB)\ADB(Michael)\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormNotaJual.resources
+D:\Data Kuliah\Program kuliah\Program Kuliah Semester 3\Pak Katon (ADB)\ADB(Michael)\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormSaringLapStok.resources
+D:\Data Kuliah\Program kuliah\Program Kuliah Semester 3\Pak Katon (ADB)\ADB(Michael)\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormSaringSup.resources
+D:\Data Kuliah\Program kuliah\Program Kuliah Semester 3\Pak Katon (ADB)\ADB(Michael)\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormSetupPemakai.resources
+D:\Data Kuliah\Program kuliah\Program Kuliah Semester 3\Pak Katon (ADB)\ADB(Michael)\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormSupplier.resources
+D:\Data Kuliah\Program kuliah\Program Kuliah Semester 3\Pak Katon (ADB)\ADB(Michael)\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormTabelBarang.resources
+D:\Data Kuliah\Program kuliah\Program Kuliah Semester 3\Pak Katon (ADB)\ADB(Michael)\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.Properties.Resources.resources
+D:\Data Kuliah\Program kuliah\Program Kuliah Semester 3\Pak Katon (ADB)\ADB(Michael)\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.csproj.GenerateResource.Cache
+D:\Data Kuliah\Program kuliah\Program Kuliah Semester 3\Pak Katon (ADB)\ADB(Michael)\Aplikasi01\Aplikasi01\obj\x86\Debug\RdlCompile.cache
+D:\Data Kuliah\Program kuliah\Program Kuliah Semester 3\Pak Katon (ADB)\ADB(Michael)\Aplikasi01\Aplikasi01\obj\x86\Debug\RdlCompile.compiled
+D:\Data Kuliah\Program kuliah\Program Kuliah Semester 3\Pak Katon (ADB)\ADB(Michael)\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormCariSetupPemakai.resources
+D:\Data Kuliah\Program kuliah\Program Kuliah Semester 3\Pak Katon (ADB)\ADB(Michael)\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.csprojResolveAssemblyReference.cache

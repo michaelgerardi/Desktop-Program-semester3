@@ -1,0 +1,10 @@
+D:\ABD_A\Aplikasi01\Aplikasi01\bin\Debug\Aplikasi01.exe
+D:\ABD_A\Aplikasi01\Aplikasi01\bin\Debug\Aplikasi01.pdb
+D:\ABD_A\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.Form1.resources
+D:\ABD_A\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.Properties.Resources.resources
+D:\ABD_A\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.csproj.GenerateResource.Cache
+D:\ABD_A\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.exe
+D:\ABD_A\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.pdb
+D:\ABD_A\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormDosen.resources
+D:\ABD_A\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormRuang.resources
+D:\ABD_A\Aplikasi01\Aplikasi01\obj\x86\Debug\Aplikasi01.FormBarang.resources
